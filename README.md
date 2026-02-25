@@ -7,7 +7,7 @@ The trigger requires a deterministic UDU gesture sequence verified with a finite
 [Watch demo video](assets/imu-silent-sos-fsm-video.mp4)
 
 ## FSM
-[![FSM Diagram](assets/fsm_diagram.png)](assets/fsm_diagram.png)
+[![FSM Diagram](assetsfsm_diagram.png)
 
 Sequence:
 `IDLE → GOT_UP → GOT_DOWN → SOS_DETECTED → COOLDOWN → IDLE`
