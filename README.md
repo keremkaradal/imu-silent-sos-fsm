@@ -5,6 +5,7 @@ The trigger requires a deterministic UDU gesture sequence verified with a finite
 
 ## Demo
 [Watch demo video](assets/imu-silent-sos-fsm-video.mp4)
+
 ## FSM
 ![FSM Diagram](assets/fsm_diagram.png)
 
